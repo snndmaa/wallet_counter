@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/anchor/idl.ts","./src/anchor/setup.ts","./src/components/counter-state.tsx","./src/components/increment-button.tsx"],"version":"5.6.2"}
